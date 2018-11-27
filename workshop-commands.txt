@@ -1,0 +1,500 @@
+  146  cd MODIS_imagery/
+  147  ls
+  148  cd t0103_t0252_t004👌4/
+  149  pwd
+  150  ssh igppgateway.ucsd.edu
+  151  ssh igppgateway.ucsd.edu
+  152  ssh lumos.ucsd.edu
+  153  cd
+  154  ls
+  155  pwd
+  156  ls
+  157  cd Desktop
+  158  ls
+  159  cd Research_Projects/
+  160  ls
+  161  cd ROSETTA-Ice/
+  162  ls
+  163  cd Lidar_Processing/
+  164  ls
+  165  cd rem
+  166  cd rema
+  167  ls
+  168  cd mosaic_tiles/
+  169  ls
+  170  pwd
+  171  history
+  172  ssh lumos.ucsd.edu
+  173  ls
+  174  ssh lumos.ucsd.edu
+  175  cd .ssh
+  176  ls
+  177  ssh-keygen
+  178  ls
+  179  vi id_rsa.pub
+  180  vi .inputrc
+  181  ssh lumos.ucsd.edu
+  182  ssh lumos.ucsd.edu
+  183  ssh lumos.ucsd.edu
+  184  cd home
+  185  ls
+  186  cd
+  187  ls
+  188  pwd
+  189  ls
+  190  cd Desktop/Research_Projects/ice_front_morphology/ICESat-2
+  191  ls
+  192  cd ATL06
+  193  ls
+  194  pwd
+  195  /Users/m3becker/Desktop/Research_Projects/ice_front_morphology/ICESat-2/ATL06
+  196  cd ..
+  197  ls
+  198  cd ..
+  199  ls
+  200  cd usr
+  201  ls
+  202  cd local
+  203  ls
+  204  cd bin
+  205  ls
+  206  cd ..
+  207  ls
+  208  cd ..
+  209  ls
+  210  cd share
+  211  ls
+  212  cd man
+  213  ls
+  214  python
+  215  anacond
+  216  anaconda
+  217  anaconda -info
+  218  cd ..
+  219  ls
+  220  cd ..
+  221  ls
+  222  cd anaconda3
+  223  ls
+  224  cd bin
+  225  ls
+  226  which python
+  227  whos python
+  228  python -info
+  229  python -h
+  230  python
+  231  conda update conda
+  232  conda update anaconda
+  233  cd Desktop
+  234  ls
+  235  ls
+  236  man ls
+  237  nano .bash_profile
+  238  ls
+  239  dsjfk
+  240  cd Desktop/Research_Projects/ice_front_morphology/
+  241  ls
+  242  cd MODIS_coastlines/
+  243  ls
+  244  gunzip amery.tar.gz 
+  245  ls
+  246  tar -zxvf ross.tar.gz 
+  247  ls
+  248  mkdir ross
+  249  ls
+  250  mv ross* ross
+  251  mv ross*.* ross
+  252  ls ross*.*
+  253  mv ross*.* /ross
+  254  ls
+  255  cd ..
+  256  ls
+  257  cd MODIS_coastlines/
+  258  ls
+  259  cd ross
+  260  ls
+  261  cd ..
+  262  ls
+  263  tar -xvf amery.tar
+  264  ls
+  265  mkdir amery
+  266  ls
+  267  mv amery*.* amery
+  268  ls
+  269  cd amery
+  270  ls
+  271  cd ..
+  272  ls
+  273  tar -zxvf filch.tar.gz 
+  274  ld
+  275  ls
+  276  mkdir filchner
+  277  ls
+  278  mv filch*.* filch
+  279  ls
+  280  mv filch*.* filchner
+  281  ls
+  282  cd filchner
+  283  ls
+  284  cd ..
+  285  ls
+  286  tar -zxvf ronne.tar.gz 
+  287  mkdir ronne
+  288  ls
+  289  mv ronne*.* ronne
+  290  ls
+  291  cd ronne
+  292  ls
+  293  man sort
+  294  cd Desktop/data-shell/
+  295  ls
+  296  cd data/pdb
+  297  ls
+  298  cd ~
+  299  cd Desktop/data-shell/data/pdb/
+  300  ls
+  301  pwd
+  302  cd ..
+  303  cd ..
+  304  ls
+  305  pwd
+  306  ls
+  307  cd data/
+  308  ls
+  309  cd .
+  310  ls
+  311  cd ../..
+  312  pwd
+  313  cd data-shell/data
+  314  ls
+  315  pwd
+  316  ls -F
+  317  cd ..
+  318  ls -F
+  319  ls
+  320  man ls
+  321  ls
+  322  cd ..
+  323  ls
+  324  rm maya-test/
+  325  rmdir maya-test/
+  326  ls
+  327  cd ..
+  328  cd Desktop/data-shell/
+  329  ls
+  330  mkdir data-process
+  331  ls
+  332  ls -F
+  333  cd data-process/
+  334  cd ..
+  335  cd data-process/
+  336  cd ..
+  337  ls
+  338  cd data-process/
+  339  ls
+  340  mv ../pizza.cfg ../solar.pdf .
+  341  ls
+  342  cd
+  343  cd Desktop/data-shell/
+  344  ls
+  345  ls
+  346  cp data-process/pizza.cfg data-process/solar.pdf .
+  347  ls
+  348  mv pizza.cfg solar.pdf data-process/
+  349  ;s
+  350  cd data-process/
+  351  ls
+  352  cd ..
+  353  ls
+  354  cp notes.txt data-process/
+  355  cd data-process/
+  356  ls
+  357  cd ..
+  358  ls
+  359  cd data-process/
+  360  ls
+  361  cd ../molecules
+  362  cd ..
+  363  ls
+  364  cd data-process/
+  365  ls ../molecules
+  366  ls
+  367  mv notes.txt notes-nelly.txt
+  368  ls
+  369  ls ../
+  370  mv ../notes.txt notes-nelly.txt
+  371  ls ../
+  372  ls
+  373  cp notes-nelly.txt ..
+  374  ls
+  375  cd ..
+  376  ls
+  377  cd data-process/
+  378  ls ../
+  379  mv ../notes-nelly.txt ../notes.txt
+  380  ls ../
+  381  cd ..
+  382  ls
+  383  mkdir swc-test
+  384  mkdir swc test
+  385  ls
+  386  rm test
+  387  man rm
+  388  ls
+  389  rm -d test
+  390  ls
+  391  rm swc-test/
+  392  rm -r swc-test/
+  393  ls
+  394  cd swc
+  395  ls
+  396  nano swc-notes.txt
+  397  nano swc-notes.txt
+  398  ls
+  399  open swc-notes.txt 
+  400  nano swc-notes.txt 
+  401  nano test-notes.txt
+  402  nano test-notes.txt
+  403  ls
+  404  rm test-notes.txt 
+  405  ls
+  406  cd ..
+  407  ls
+  408  rm -r
+  409  rm -r swc/
+  410  ls
+  411  man rm
+  412  ls
+  413  cd molecuels
+  414  cd molecules
+  415  ls
+  416  wc propane.pdb
+  417  wc *.pdb
+  418  wc ?ethane.pdb
+  419  wc ??thane.pdf
+  420  wc ??thane.pdb
+  421  wc ???ane.pdb
+  422  wc *thane.pdb
+  423  ls *t*ane.pdb
+  424  ls *t??ne.pdb
+  425  wc -1 *.pdb
+  426  wc -l *.pdb
+  427  man wc
+  428  wc -l *.pdb > length.txt
+  429  nano length.txt
+  430  ls
+  431  nano length.txt
+  432  cat length.txt
+  433  less length.txt
+  434  less length.txt
+  435  sort length.txt
+  436  sort -n length.txt
+  437  man sort
+  438  ls
+  439  sort -n length.txt
+  440  sort -n length.txt > sorted-length.txt
+  441  ls
+  442  nano sorted-length.txt 
+  443  ls
+  444  head -n 1 sorted-length.txt
+  445  tail -n 1 sorted-length.txt
+  446  head -n 2 sorted-length.txt
+  447  tail -n 2 sorted-length.txt
+  448  sort -n length.txt 
+  449  sort -n length.txt | head -n 1
+  450  cd ..
+  451  ls
+  452  cd data
+  453  ls
+  454  cat salmon.txt
+  455  uniq salmon.txt
+  456  sort salmon.txt | uniq
+  457  cd ..
+  458  ls
+  459  cd data
+  460  ls
+  461  cat animals.txt
+  462  head animals.txt
+  463  tail animals.txt
+  464  head animals.txt
+  465  cat animals.txt
+  466  cat animals.txt | head -n 5 | tail -n 3 | sort -r > final.txt
+  467  cat final.txt
+  468  cut -d , -f 2 animals.txt
+  469  cut -d , -f 2 animals.txt > animals-today.txt
+  470  ls
+  471  cat animals-today.txt 
+  472  cut -d , -f 2 animals.txt >> animals-today.txt
+  473  ls
+  474  cat animals-today.txt 
+  475  ls
+  476  cd ..
+  477  ls
+  478  cd creatures
+  479  ls
+  480  cp *.dat original-*.dat
+  481  ls
+  482  for filename in basilisk.dat unicorn.dat; do head -n 3 $filename; done
+  483  head -n 3 basilisk.dat
+  484  head basilisk.dat 
+  485  cd ..
+  486  ls
+  487  cd molecules
+  488  ls
+  489  for datafile in *.pdf; for datafile in *.pdf:q
+  490  for datafile in *.pdb; do ls $datafile; done
+  491  for datafile in *.pdb; do ls *.pdb; done
+  492  for chem in *pdb; do ls $chem > test.txt; done
+  493  ls
+  494  cat test.txt
+  495  ls
+  496  git
+  497  git
+  498  git
+  499  which brew
+  500  brew install git
+  501  which git
+  502  git --version
+  503  which git
+  504  git config --global user.name "Maya Becker"
+  505  which git
+  506  git --version
+  507  which git
+  508  /usr/bin/git --version
+  509  ./usr/bin/git --version
+  510  cd /usr/local/
+  511  ls
+  512  cd bin/
+  513  ;s
+  514  ls
+  515  ls g*
+  516  ls gi*
+  517  .git --version
+  518  git --version
+  519  brew install git
+  520  brew link git
+  521  brew link --overwrite git
+  522  which git
+  523  git --version
+  524  ls
+  525  pwd
+  526  /usr/local/bin/git --version
+  527  /usr/local/bin/git --config --global user.name "test" 
+  528  /usr/local/bin/git config --global user.name "test" 
+  529  /usr/local/bin/git config --global user.name "Maya Becker" 
+  530  /usr/local/bin/git config --global user.email "m3becker@ucsd.edu" 
+  531  /usr/local/bin/git config --global core.autocrlf true
+  532  /usr/local/bin/git config --global core.editor "textwrangler"
+  533  cd ~/Desktop
+  534  mkdir planets
+  535  cd planets
+  536  /usr/local/bin/git init
+  537  ls
+  538  ls -a
+  539  /usr/local/bin/git status
+  540  pwd
+  541  nano mars.txt
+  542  ls
+  543  cat mars.txt
+  544* 
+  545  /usr/local/bin/git status
+  546  /usr/local/bin/git add mars.txt
+  547  git status
+  548  /usr/local/bin/git status
+  549  /usr/local/bin/git add mars.txt
+  550  /usr/local/bin/git status
+  551  /usr/local/bin/git commit -m "Start notes on Mars as a base"
+  552  /usr/local/bin/git status
+  553  /usr/local/bin/git log
+  554  ls
+  555  /usr/local/bin/git config --global core.autocrlf input
+  556  ls
+  557  nano mars.txt
+  558  /usr/local/bin/git status
+  559  /usr/local/bin/git add mars.txt
+  560  ls
+  561  /usr/local/bin/git status
+  562  /usr/local/bin/git commit -m "Added to-note about XCode"
+  563  /usr/local/bin/git status
+  564  /usr/local/bin/git log
+  565  nano dogs.txt
+  566  /usr/local/bin/git status
+  567  /usr/local/bin/git add dogs.txt
+  568  /usr/local/bin/git status
+  569  /usr/local/bin/git commit -m "Started list of dog breeds that I like"
+  570  /usr/local/bin/git status
+  571  /usr/local/bin/git log
+  572  nano mars.txt
+  573  /usr/local/bin/git status
+  574  /usr/local/bin/git commit -m "Modified to-do note about XCode"
+  575  git add mars.txt
+  576  /usr/local/bin/git add mars.txt
+  577  /usr/local/bin/git commit -m "Modified to-do note about XCode"
+  578  /usr/local/bin/git status
+  579  /usr/local/bin/git log
+  580  /usr/local/bin/git diff
+  581  nano dogs.txt
+  582  /usr/local/bin/git diff
+  583  /usr/local/bin/git log --oneline
+  584* 
+  585  /usr/local/bin/git checkout 6587cec dogs.txt
+  586  cat dogs.txt
+  587  /usr/local/bin/git checkout HEAD~1 dogs.txt
+  588  cat dogs.txt
+  589  /usr/local/bin/git checkout HEAD~2 dogs.txt
+  590  /usr/local/bin/git checkout HEAD dogs.txt
+  591  cat dogs.txt
+  592  /usr/local/bin/git log --oneline
+  593  /usr/local/bin/git checkout f9c3b1d mars.txt
+  594  cat mars.txt
+  595* 
+  596  /usr/local/bin/git checkout HEAD~1 mars.txt
+  597  cat mars.txt
+  598  /usr/local/bin/git checkout HEAD mars.txt
+  599  cat mars.txt
+  600  /usr/local/bin/git log --oneline
+  601  /usr/local/bin/git checkout f9c3b1d mars.txt
+  602  cat mars.txt
+  603  /usr/local/bin/git checkout master
+  604  /usr/local/bin/git log --oneline
+  605  /usr/local/bin/git checkout f9c3b1d mars.txt
+  606  cat mars.txt
+  607  /usr/local/bin/git checkout -b test-branch
+  608  cat mars.txt
+  609  /usr/local/bin/git checkout master
+  610  cat mars.txt
+  611  /usr/local/bin/git checkout HEAD mars.txt
+  612  cat mars.txt
+  613  /usr/local/bin/git status
+  614  /usr/local/bin/git log --graph
+  615  nano .gitignore
+  616  /usr/local/bin/git status
+  617  pwd
+  618  mkdir results
+  619  touch a.dat b.dat c.dat results/a.out results/b.out
+  620  ls
+  621  cd results/
+  622  ls
+  623  cd ..
+  624  ls
+  625  /usr/local/bin/git status
+  626  nano .gitignore
+  627  cat .gitignore
+  628  /usr/local/bin/git status
+  629  source ~/.bash_profile
+  630  git --version
+  631  cd ..
+  632  ls
+  633  cd planets
+  634  ls
+  635  git remote -v
+  636  git remote origin https://github.com/mayakbecker/verbose-giggle.git
+  637  git remote add origin https://github.com/mayakbecker/verbose-giggle.git
+  638  git remote -v
+  639  git push origin master
+  640  git pull origin master
+  641  git status
+  642  git log
+  643  git diff dogs.txt
+  644  git diff
+  645  history > workshop-commands.txt
